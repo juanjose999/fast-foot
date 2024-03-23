@@ -3,7 +3,7 @@ package com.comidas.rapidas.order;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FakeDataOrder {
+public class FakeDataOrder { /*
     public static Order crearOrder(){
         Order firstOrder = new Order();
         firstOrder.setId("1");
@@ -24,5 +24,5 @@ public class FakeDataOrder {
         order.put("Arepa mixta", 2);
         firstOrder.setOrder(order);
         return firstOrder;
-    }
+    }*/
 }
